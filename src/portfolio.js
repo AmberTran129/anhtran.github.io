@@ -14,6 +14,13 @@ const socialMediaLinks = {
   gmail: "anhthingoctran129@gmail.com",
 };
 
+const contactInfo = {
+  title: "Contact Me ☎️",
+  subtitle: "Happy to share Product Manager insights",
+  number: "+84 358 270 404",
+  email_address: "anhthingoctran129@gmail.com",
+};
+
 const skillsSection = {
   title: "Core Skills",
   subTitle:
@@ -147,6 +154,8 @@ export {
   workExperiences,
   educationInfo,
   certifications,
+  contactInfo,
   isHireable,
 };
+
 
