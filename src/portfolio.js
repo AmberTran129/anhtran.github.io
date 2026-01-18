@@ -145,4 +145,6 @@ export {
   workExperiences,
   educationInfo,
   certifications,
+  isHireable,
 };
+
