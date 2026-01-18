@@ -1,3 +1,5 @@
+const isHireable = true;
+
 /* Personal Portfolio Configuration */
 
 const greeting = {
